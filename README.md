@@ -22,7 +22,7 @@ With the Accident Detection and Notification System, users get:
 
 ## 📸 Screenshot
 
-![Accident Detection System Home Page](./images/homepage.png)
+![Accident Detection System Home Page](homepage.png)
 
 **Home Page of the Accident Detection and Notification System**
 
@@ -56,7 +56,7 @@ The screenshot below displays the application's homepage featuring:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/accident-detection-system.git
+git clone https://github.com/jangilisandhya/accident-detection-system.git
 ```
 
 ### 2️⃣ Configure AWS Credentials
